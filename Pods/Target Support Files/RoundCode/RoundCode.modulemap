@@ -1,0 +1,6 @@
+framework module RoundCode {
+  umbrella header "RoundCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
